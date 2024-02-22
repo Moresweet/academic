@@ -91,8 +91,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: assets/media/icons/csdn.svg
-    icon_pack: fab
+  - icon: csdn
+    # icon_pack: fab
     link: https://blog.csdn.net/qq_38853759?spm=1000.2115.3001.5343
     label: Follow me on CSDN
     display:
