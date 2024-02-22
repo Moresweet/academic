@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Computer Science
+role: MEng of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,47 +37,47 @@ interests:
 education:
   courses:
     - course: MEng in Computer Science
-      institution: Stanford University
+      institution: South-Central Minzu University
       year: 2022
     - course: BSc in Computer Science
-      institution: Massachusetts Institute of Technology
+      institution: YanTai University
       year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Software
     items:
-      - name: Python
+      - name: Deep Learning Algorithm
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: ROS Porgraming
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Linux System Administration
         description: ''
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Hardware
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: STM32
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: PCB Design
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Robot
         description: ''
         percent: 80
         icon: camera-retro
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tian Changhang is a current master's student at South-Central Minzu University, recognized as an outstanding graduate at the provincial level in Shandong Province and as an outstanding graduate student at the university level. He serves as the head of the Intelligent Hardware Group at Hubei Province Manufacturing Enterprise Intelligent Management Engineering Technology Research Center. Tian Changhang holds certifications as a Red Hat Certified Engineer and System Administrator. Additionally, he is a student member of the China Computer Federation (CCF). His research interests lie in the field of Embodied Intelligence. In his professional role, he dedicates himself to autonomous navigation, active SLAM (Simultaneous Localization and Mapping), and visual navigation in the domain of robotics.
 {style="text-align: justify;"}
