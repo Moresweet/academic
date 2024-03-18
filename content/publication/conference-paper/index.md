@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'RASLS: Reinforcement Learning Active SLAM Approach with Layout Semantic'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,11 +13,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-03-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-05-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Active SLAM plays a crucial role in applications of embodied intelligence. Previous learning-based methods struggle to sufficiently leverage semantic information in the environment, while frontier-based algorithms face challenges in mitigating myopic decision-making issues. Considering that humans experientially use observed information while exploring environments, we propose a deep reinforcement learning approach incorporating object semantic information and design a reward-matching mechanism based on the prior object layout. To tackle the instability in exploration gains caused by error optimization in the mapping part of the SLAM system, we introduce a method for differential map uncertainty confidence filtering. We conduct reinforcement learning training using Gazebo in office scenarios based on 3DGEMS and perform comparisons in a new scenario. Through ablation analysis, we demonstrate the effectiveness of layout semantic information. Compared to the latest reinforcement learning baseline, experimental results indicate that our method achieves a higher success rate with a shorter average execution time and path length.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,8 +44,8 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/Moresweet/DRL_ARE_Graph_Gazebo'
+url_dataset: 'https://data.nvision2.eecs.yorku.ca/3DGEMS/'
 url_poster: ''
 url_project: ''
 url_slides: ''
