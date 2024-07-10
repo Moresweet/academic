@@ -13,21 +13,21 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: 'p'
-    # org_name: 'South-Central Minzu University'
-    description: 'Changhang Tian's personal website.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-  verification:
-    google: ''
-    baidu: ''
+# marketing:
+#   seo:
+#     site_type: Person
+#     local_business_type: 'p'
+#     # org_name: 'South-Central Minzu University'
+#     description: 'Changhang Tian's personal website.'
+#     twitter: 'GetResearchDev'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#     google_tag_manager: ''
+#     microsoft_clarity: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # Site header
 
