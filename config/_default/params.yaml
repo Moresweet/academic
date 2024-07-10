@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'South-Central Minzu University'
+    # org_name: 'South-Central Minzu University'
     description: 'Changhang Tian's personal website.'
     twitter: 'GetResearchDev'
   analytics:
