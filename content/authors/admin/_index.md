@@ -91,7 +91,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: 'custom/csdn'
+  - icon: 'icon:custom/csdn'
     icon_pack: custom
     link: https://blog.csdn.net/qq_38853759?spm=1000.2115.3001.5343
     label: Follow me on CSDN
@@ -99,10 +99,10 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=Changhang+Tian
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Moresweet
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
