@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: Changhang Tian website(田长航)
       image:
         filename: hero-academic.png
       cta:
