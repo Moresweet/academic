@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MEng of Computer Science
+role: PhD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: South-Central Minzu University
-    url: https://www.scuec.edu.cn/
+  - name: Beihang University
+    url: https://buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and autonomous driving.
 
 # Interests to show in About widget
 interests:
@@ -36,6 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: phD in Transportation Science
+      institution: Beihang University
+      year: 2025
     - course: MEng in Computer Science
       institution: South-Central Minzu University
       year: 2022
@@ -117,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Tian Changhang is a current master's student at South-Central Minzu University, recognized as an outstanding graduate at the provincial level in Shandong Province and as an outstanding graduate student at the university level. He serves as the head of the Intelligent Hardware Group at Hubei Province Manufacturing Enterprise Intelligent Management Engineering Technology Research Center. Tian Changhang holds certifications as a Red Hat Certified Engineer and System Administrator. Additionally, he is a student member of the China Computer Federation (CCF). His research interests lie in the field of Embodied Intelligence. In his professional role, he dedicates himself to autonomous navigation, active SLAM (Simultaneous Localization and Mapping), and visual navigation in the domain of robotics.
+Tian Changhang is currently a PhD candidate at Beihang University, focusing on trusted autonomous driving, with joint training at the State Key Laboratory of Vehicle Infrastructure Integration Intelligent Transportation from 2024 to 2025. Previously, during his master’s studies at South-Central Minzu University, he was awarded the title of Provincial Outstanding Graduate of Shandong Province and University-Level Outstanding Graduate Student, and served as the head of the Intelligent Hardware Group at the Hubei Province Manufacturing Enterprise Intelligent Management Engineering Technology Research Center. Holding certifications as a Red Hat Certified Engineer and System Administrator, he is also a student member of the China Computer Federation (CCF), with research interests spanning the field of embodied intelligence. In his professional work, he has deepened his expertise in autonomous navigation, active SLAM (Simultaneous Localization and Mapping), and visual navigation in robotics, and now extends his research focus to the integrated innovation of trusted autonomous driving technologies and vehicle-road intelligent transportation systems.
 {style="text-align: justify;"}
